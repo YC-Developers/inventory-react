@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+}
+
+.ant-layout {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.content-layout {
+  padding: 24px;
+  margin: 24px;
+  background: #fff;
+  min-height: 280px;
+}
